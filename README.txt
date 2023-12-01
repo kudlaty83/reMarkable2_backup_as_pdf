@@ -10,7 +10,7 @@ Script works under console
 Sorry for my english ;)
 
 And Yes - You are right, probably PHP is not good choice for this job.
-Some other projects, making different types of backup You can find there:
+Some other projects, making different types of backup You can find here:
 
 - Backups:
 https://github.com/kwoot/backup_reMarkable
